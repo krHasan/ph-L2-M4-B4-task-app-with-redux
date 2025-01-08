@@ -16,6 +16,14 @@ const initialState: InitialState = {
             isComplete: false,
             priority: "High",
         },
+        {
+            id: "",
+            title: "Initial Task",
+            description: "Create Home page and routing",
+            dueDate: "2025-11",
+            isComplete: false,
+            priority: "High",
+        },
     ],
 };
 
